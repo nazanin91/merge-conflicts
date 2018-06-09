@@ -1,2 +1,2 @@
 var num = 50;
-var truth = "hello you"
+var truth = "hello people"
